@@ -1,0 +1,495 @@
+/* -----------Framework----------- */
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* -----------pretop----------- */	 
+.pretop {
+		box-shadow:2px 2px #EBE7E7;
+}
+
+.pretop h1{
+	float:left;
+	padding-left:45px;
+	font-size: 30px;
+	color:black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+}
+
+.membership {
+	height:70px;
+	text-align:right;
+	line-height:60px;
+}
+
+/* -----------navigation----------- */	  
+
+.topnav {
+	clear:both;
+  overflow: hidden;
+  background-color: #5F9EA0;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* -----------footer----------- */
+.footer {
+	clear:both;
+	padding: 1em 2em 2em 2em;
+	background-color: #5F9EA0;
+	text-align: center;
+	color:white;
+}
+
+ul.footer li {
+
+	display:inline-block;
+}
+/* -----------sidebox---------- */
+
+aside  {
+	padding-left:25px;
+	background-color:#F5F5F5;
+	position: fixed;
+	float: right;
+	left:50%;
+	top:59%;
+	z-index: 999;
+	margin-left:530px;
+	border:1px solid green  
+
+}
+/* -----------gap----------- */	
+.gap {
+	clear:both;
+	text-align:right;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: white;
+	padding: 5px;
+}
+
+/* -----------balloon1-6----------- */
+
+ul li img {
+	width:100%;
+	height:auto;
+}
+
+ul.balloon1-6 {
+
+	list-style-type:none;
+	
+}
+
+ul.balloon1-6 li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.balloon1-6 li h2 {
+	text-align:center;
+}
+
+.balloon1 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.balloon2 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.balloon3 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.balloon4 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.balloon5 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.balloon6 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+
+/* -----------balloon7-8----------- */
+
+ul.balloon7-8 {
+	clear:both;
+	list-style-type:none;
+	
+}
+
+ul.balloon7-8 li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.balloon7-8 li h2 {
+	text-align:center;
+}
+
+.balloon7 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.balloon8 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+/* -----------section----------- */
+
+.section-title {
+	clear:both;
+	text-align: left;
+	margin: 0 auto 25px 0;
+	max-width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #cccccc;
+	max-width: 670px;
+	margin: 0 auto 50px;
+	width: 100%;
+}
+
+
+
+.section-title h2 {
+	font-size: 30px;
+	margin-bottom: 0;
+	position: relative;
+	background: #f9f9f9;
+	font-weight: 600;
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+	top: 15px;
+	margin-top: -15px;
+}
+
+/* -----------tablechairs---------- */
+
+ul.tb {
+
+	list-style-type:none;
+	
+}
+
+ul.tb li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.tb li h2 {
+	text-align:center;
+}
+
+.tb1 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.tb2 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.tb3 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.tb4 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.tb5 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.tb6 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+/* -----------Catering Equipment---------- */
+
+ul.ce {
+	clear:both;
+
+	list-style-type:none;
+	
+}
+
+ul.ce li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.ce li h2 {
+	text-align:center;
+}
+
+.ce1 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.ce2 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.ce3 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.ce4 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.ce5 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+/* -----------Lighting--------- */
+
+ul.l {
+
+	list-style-type:none;
+	
+}
+
+ul.l li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.l li h2 {
+	text-align:center;
+}
+
+.l1 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.l2 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.l3 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+/* -----------Sound Equipment------------------- */
+
+ul.se {
+
+	list-style-type:none;
+	
+}
+
+ul.se li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.se li h2 {
+	text-align:center;
+}
+
+.se1 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.se2 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+
+/* -----------Staging & Catwalk--------- */
+
+ul.sc {
+
+	list-style-type:none;
+	
+}
+
+ul.sc li {
+	float:left;
+	padding-left:20px;
+}
+
+ul.sc li h2 {
+	text-align:center;
+}
+
+.sc1 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.sc2 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.sc3 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.sc4 {
+
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.sc5 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+.sc6 {
+	border: none;
+	height:auto;
+	width:16%;
+}
+
+/* -----------Hire policy-->----------- */
+
+.good{
+	text-align:center;
+}
+
+
+
+
+section.policy {  
+margin-left:10%;
+column-count: 3;
+
+width:80%;  
+
+border:1px solid green  
+
+}  
+
+
+/* -----------back to the top button----------- */
+
+.backtop {
+	clear:both;
+	bottom: 20px;
+	right: 20px;
+	font-size: 18px;
+	padding: 10px 20px;
+	background-color: white; 
+	color: black; 
+	border: 2px solid #5F9EA0;
+
+}
+
+.backtop:hover{
+	background-color: #5F9EA0;
+	color: white;
+
+}

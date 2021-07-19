@@ -1,0 +1,142 @@
+/* -----------Framework----------- */
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* -----------pretop----------- */	 
+.pretop {
+		box-shadow:2px 2px #EBE7E7;
+}
+
+
+.membership {
+	height:70px;
+	text-align:right;
+	line-height:60px;
+}
+
+/* -----------navigation----------- */	  
+
+.topnav {
+	clear:both;
+  overflow: hidden;
+  background-color: #5F9EA0;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* -----------footer----------- */
+.footer {
+	clear:both;
+	padding: 1em 2em 2em 2em;
+	background-color: #5F9EA0;
+	text-align: center;
+	color:white;
+}
+
+ul.footer li {
+	display:inline-block;
+}
+
+/* -----------gap----------- */	
+.gap {
+	clear:both;
+	text-align:right;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: white;
+	padding: 5px;
+}
+
+/* -----------fieldset----------- */	
+
+fieldset {
+	margin-left:15%;
+	width: 30%;
+	padding-bottom:30px;
+	text-align:left;
+}
+
+/* -----------form----------- */	
+
+table caption {
+	padding-bottom:30px;
+	text-align:left;
+	
+}
+
+
+table {
+
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 70%;
+	margin-left:15%;
+}
+
+th, td {
+  padding: 30px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.addressbox {
+	width:100%;
+}
+
+.commentcre {
+	width:100%;
+	height:120px;
+}
+
+
+/* -----------back to the top button----------- */
+
+.backtop {
+	clear:both;
+	float:right;
+	bottom: 20px;
+	right: 20px;
+	font-size: 18px;
+	padding: 10px 20px;
+	background-color: white; 
+	color: black; 
+	border: 2px solid #5F9EA0;
+
+}
+
+.backtop:hover{
+	background-color: #5F9EA0;
+	color: white;
+
+}
